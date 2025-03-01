@@ -19,7 +19,7 @@ This project is a Case Study hosted by the Google Data Analyst Professional Cert
 * Dashboard
 
 ## Data Sourcing
-The data used for this analysis is provided by [Divvy](https://divvy-tripdata.s3.amazonaws.com/index.html). Because Cyclistic is a fictional company, the data is provided by a similar, real life company. In this scenario, we can assume that the data is provided by Cyclistic, a primary source, making it reliable data. The data being analyzed ranges from the dates Jan. 2022 to Dec. 2022.
+The data used for this analysis is provided by [Divvy](https://divvy-tripdata.s3.amazonaws.com/index.html). Because Cyclistic is a fictional company, the data is provided by a similar, real life company. In this scenario, we can assume that the data is provided by Cyclistic, a primary source, making it reliable data. The data being analyzed ranges from the dates Jan. 2022 to Dec. 2022. A copy of the data is located in [this website](https://www.kaggle.com/datasets/jameschunweber/data-for-google-capstone-project-cyclistic-2022).
 * ride_id - A unique ID assigned to each ride.
 * rideable_type - The type of bike used in a ride.
 * started_at - The date and time when a ride started.
@@ -37,4 +37,4 @@ The data used for this analysis is provided by [Divvy](https://divvy-tripdata.s3
 ## Project Results
 This project was conducted on Kaggle.com. [Click here](https://www.kaggle.com/code/jameschunweber/google-case-study-cyclistic-r-and-tableau#) to be taken to the notebook which contains the full details of the project, including findings, and conclusions.
 
-A dashboard was created to summarize relevant findings from this project using Tableau. [Click here](https://public.tableau.com/views/GoogleCaseStudyCyclisticDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to be taken to the dashboard.
+A dashboard was created to summarize relevant findings from this project using Tableau. [Click here](https://public.tableau.com/views/GoogleCaseStudyCyclisticDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to be taken to the dashboard. A copy of the dashboard is included in this repository under the file name: Cyclistic_Dashboard.png
